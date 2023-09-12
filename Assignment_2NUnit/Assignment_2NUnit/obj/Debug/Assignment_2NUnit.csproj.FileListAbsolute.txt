@@ -1,0 +1,9 @@
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_3\Day_3Assignment\Assignment_2NUnit\Assignment_2NUnit\bin\Debug\Assignment_2NUnit.dll
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_3\Day_3Assignment\Assignment_2NUnit\Assignment_2NUnit\bin\Debug\Assignment_2NUnit.pdb
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_3\Day_3Assignment\Assignment_2NUnit\Assignment_2NUnit\bin\Debug\nunit.framework.dll
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_3\Day_3Assignment\Assignment_2NUnit\Assignment_2NUnit\bin\Debug\nunit.framework.xml
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_3\Day_3Assignment\Assignment_2NUnit\Assignment_2NUnit\obj\Debug\Assignment_2NUnit.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_3\Day_3Assignment\Assignment_2NUnit\Assignment_2NUnit\obj\Debug\Assignment_2NUnit.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_3\Day_3Assignment\Assignment_2NUnit\Assignment_2NUnit\obj\Debug\Assignment_2NUnit.csproj.CopyComplete
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_3\Day_3Assignment\Assignment_2NUnit\Assignment_2NUnit\obj\Debug\Assignment_2NUnit.dll
+C:\Users\KIIT\Desktop\SpecFlowExercise\Day_3\Day_3Assignment\Assignment_2NUnit\Assignment_2NUnit\obj\Debug\Assignment_2NUnit.pdb
